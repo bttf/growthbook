@@ -81,8 +81,8 @@ export default function GuidedGetStarted({
   const steps: Task[] = [
     {
       alwaysShowHelperText: true,
-      blackTitle: "WILLKOMMEN to ",
-      purpleTitle: "GrowthBook!",
+      blackTitle: "Welcome to ",
+      purpleTitle: "GrowthBook! It's lit.",
       text: "GrowthBook is a modular platform that enables teams to create feature flags and analyze experiment results. These features can be used together, or on their own - the choice is yours.",
       completed:
         settings?.videoInstructionsViewed ||
