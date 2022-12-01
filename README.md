@@ -78,3 +78,5 @@ If you want to, you can reach out via [Slack](https://slack.growthbook.io?ref=re
 ## License
 
 This project uses the MIT license. The core GrowthBook app will always remain open and free, although we may add some commercial enterprise add-ons in the future.
+
+## Test
