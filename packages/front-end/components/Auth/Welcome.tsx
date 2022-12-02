@@ -154,7 +154,7 @@ export default function Welcome({
           )}
           {state === "firsttime" && (
             <div>
-              <h3 className="h2">Set up your first account</h3>
+              <h3 className="h2">Set up your first account!!</h3>
               <p>
                 This information stays on your servers and is never shared.{" "}
                 <br />
